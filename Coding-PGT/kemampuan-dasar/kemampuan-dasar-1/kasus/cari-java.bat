@@ -1,1 +1,0 @@
-﻿Get-ChildItem -path C:\users\Fortune\Coding-PGT\ -filter *.bat -file -ErrorAction silentlycontinue -recurse
